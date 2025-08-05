@@ -6,5 +6,5 @@ This Python script generates a random integer between 1 and 100. If the number i
 
 ## Sample Output
 
-![Sample output from running the script](images/sample_output.png)
+![Sample output from running the script](**images/sample_output.png**)
 
