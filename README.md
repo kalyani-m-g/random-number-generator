@@ -2,4 +2,9 @@
 
 This Python script generates a random integer between 1 and 100. If the number is above 90, it prints a special “Lucky” message.
 
+//output
+
+## Sample Output
+
+![Sample output from running the script](images/sample_output.png)
 
